@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "blogCategory": "Featured",
+      "blogTitle": "Nah",
+      "slug": "nah",
+      "postedOn": "July 21, 2016",
+      "author": "Simba",
+      "blogImage": "thanos.jpg",
+      "blogText": "I gotta change these words."
+    },
+    {
+      "id": 2,
+      "blogCategory": "Simple",
+      "blogTitle": "Hi Love, Bye Love",
+      "slug": "hi-love-bye-love",
+      "postedOn": "May 03, 2016",
+      "author": "Simba",
+      "blogImage": "avengers.jpg",
+      "blogText": "I will add words here too."
+    },
+    {
+      "id": 3,
+      "blogCategory": "Simple",
+      "blogTitle": "Can you run a mile",
+      "slug": "can-you-run-a-mile",
+      "postedOn": "Apr 02, 2017",
+      "author": "Simba",
+      "blogImage": "forest.jpg",
+      "blogText": "Life is a slow race."
+    },
+    {
+      "id": 4,
+      "blogCategory": "Featured",
+      "blogTitle": "Hey Mama",
+      "slug": "hey-mama",
+      "postedOn": "Jan 02, 2019",
+      "author": "Kanye West",
+      "blogImage": "pain.jpg",
+      "blogText": "I wanna scream so loud for you."
+    },
+    {
+      "id": 5,
+      "blogCategory": "Fashion",
+      "blogTitle": "Dear Summer",
+      "slug": "dear-summer",
+      "postedOn": "Feb 21, 2018",
+      "author": "Simba",
+      "blogImage": "yezzy.jpg",
+      "blogText": "Where are you?"
+    }
+  ]
+}

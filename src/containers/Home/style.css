@@ -1,0 +1,31 @@
+.gallaryPost {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+.mainImageWrapper img,
+.mainImageWrapper1,
+.mainImageWrapper {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.mainImageWrapper img,
+.mainImageWrapper1 img,
+.mainImageWrapper2 img {
+  max-width: 100%;
+  height: 100%;
+  display: block;
+  align-content: center;
+  background-color: grey;
+  margin: 0 auto;
+  opacity: 0.99;
+}
+
+/* .mainImageWrapper img:hover,
+.mainImageWrapper1 img:hover,
+.mainImageWrapper2 img:hover {
+  transform: scale(1.5);
+} */
